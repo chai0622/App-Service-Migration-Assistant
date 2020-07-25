@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.autoDetectColorScheme": true,
+    "window.closeWhenEmpty": true,
+    "git.autofetch": true,
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "typescript.disableAutomaticTypeAcquisition": true
+}
